@@ -12,13 +12,13 @@ Make sure you have Bash installed on your system.
 
 1. Clone the repository to your local machine:
 
-            git clone https://github.com/your-username/random-text-file-generator.git
+            git clone https://github.com/josemlwdf/junk_generator.git
             cd random-text-file-generator
 
 
 2. Run the script with the following command:
 
-            ./generate_files.sh <wordlist1> <wordlist2>
+            ./junk_gen.sh <wordlist1> <wordlist2>
 
 
 ``Replace `<wordlist1>` and `<wordlist2>` with the paths to your own wordlist files.``
